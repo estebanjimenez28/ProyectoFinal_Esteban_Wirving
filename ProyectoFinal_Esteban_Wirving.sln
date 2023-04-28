@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoFinal_Esteban_Wirving", "ProyectoFinal_Esteban_Wirving\ProyectoFinal_Esteban_Wirving.csproj", "{7AF9F4EB-A978-466C-82F6-7133E6D4EFE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{60C3F61B-5B7A-44E0-9362-A387E9C7480F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AF9F4EB-A978-466C-82F6-7133E6D4EFE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF9F4EB-A978-466C-82F6-7133E6D4EFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF9F4EB-A978-466C-82F6-7133E6D4EFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF9F4EB-A978-466C-82F6-7133E6D4EFE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60C3F61B-5B7A-44E0-9362-A387E9C7480F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C3F61B-5B7A-44E0-9362-A387E9C7480F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C3F61B-5B7A-44E0-9362-A387E9C7480F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C3F61B-5B7A-44E0-9362-A387E9C7480F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4C49676-4C40-4A6E-9D46-DE28B97E9E45}
+	EndGlobalSection
+EndGlobal
